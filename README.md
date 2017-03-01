@@ -10,7 +10,7 @@
 
 # Datasets
 
-- Put [MIT mocap dataset](http://mocap.cs.cmu.edu/) in ./external/
+- Put [CMU mocap dataset](http://mocap.cs.cmu.edu/) in ./external/
 - Put models in ./external (not yet implemented)
 
 # How to use
